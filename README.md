@@ -8,6 +8,6 @@
 
 ## Stories
 
-* _How to weight a god with a ruler?_ [eng](https://github.com/BetaAndBit/ComicBooks/blob/master/en/HeavyDog/HeavyDog.pdf), [pl](https://github.com/BetaAndBit/ComicBooks/blob/master/pl/JakZwazycPsa/JakZwazycPsa.pdf)
+* _How to weight a god with a ruler?_ [eng](https://github.com/BetaAndBit/ComicBooks/blob/master/en/HeavyDog/HeavyDog.pdf), [pl](https://github.com/BetaAndBit/ComicBooks/blob/master/pl/JakZwazycPsa/JakZwazycPsa.pdf), [cz](https://github.com/BetaAndBit/ComicBooks/blob/master/cz/komiksJakZwazycPsaCzK.pdf)
 
 ![The Beta and Bit](buzki.png)
