@@ -1,5 +1,7 @@
 ## ComicBooks in The Beta and Bit series
 
+*WWW* http://betabit.wiki
+
 *Beta:* skilled mathematician, well organized and very curious
 
 *Bit:* hothead programmer, loves computers, robots and competitions
