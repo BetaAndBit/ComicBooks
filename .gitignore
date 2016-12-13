@@ -1,0 +1,61 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Project-specific
+resources
+roster*
+admin
+archive
+.ipynb_checkpoints/
+
+# LaTeX
+*.synctex.gz
+*.out
+*.aux
+*.idx
+*.log
+
+# Exported files in notebooks directory
+#notebooks/*pdf
+#notebooks/*html
+
+#*Bios366_project_data*
+#_homework/
+#_project/
+#test.*
+#*.png
+#*.svg
+#*.pyx
+#baseball_pickle
+#mb.csv
+#notebooks/MCMC*
+
+# OS X junk
+.DS_Store
+
+.domino*
