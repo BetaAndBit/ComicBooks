@@ -4,7 +4,7 @@ Adventures of Beta and Bit
 How to weigh a dog with a ruler?
 
 貝塔和比特的歷險記
-如何用尺來量測一隻狗的重量？
+如何用尺來秤一隻狗的重量？
 
 
 Bit, who is a computer, programming as well as robot maniac, changes into SuperBit under the influence of puzzles.
@@ -29,7 +29,7 @@ Calculator: -10 to the time of calculations.
 
 Superglasses: +10 to the speed of browsing the Internet.
 
-超級眼鏡：上網速度快十倍。
+超級眼鏡：網速搜尋速度快十倍。
 
 
 Beta's superpower is Data Analysis.
@@ -56,7 +56,7 @@ I wonder how much this giant weighs?
 
 You may weigh it on a scale.
 
-你可以把牠放到磅秤上去量牠的重量。
+你可以把牠放到磅秤上去秤牠的重量。
 
 
 But how? I can't even lift him. And I don't have any scale.
@@ -105,7 +105,7 @@ Take a ruler and try to draw a line which is passing the nearest possible by all
 
 (＊) The mathematics on the academic level is needed to find the line, which fits the best. In this way we will find more or less approximate solution.
 
-(＊註) 若是要畫出最佳化的一條直線，我們必須要用到學校教的數學，但是用以上大略畫出來的直線，我們多少可以得出一個大略的估計值。
+(註＊) 若是要畫出最佳化的一條直線，我們必須要用到學校教的數學，但是用以上大略畫出來的直線，我們多少可以得出一個大略的估計值。
 
 
 Height Weight
@@ -123,7 +123,7 @@ Newfoundland
 Mastiff
 
 吉娃娃
-約克頁狗
+約克夏狗
 梗犬
 長毛牧羊犬
 松獅狗
@@ -148,7 +148,7 @@ Weight [kg]
 
 How heavy is 60 cm high dog? (1) Mark this size on the horizontal line. (2) Draw a vertical line through it. (3) Try to read what weight the height of the dog corresponds to. What is your result?
 
-一隻60公分高的狗有多重？ (1) 在水平座標軸上找到這個重量的標示。 (2) 畫一條垂直線經過它。 (3) 從兩線相交處，試著讀出這個高度的狗相對應的重量。 你的答案是什麼？
+一隻60公分高的狗有多重？ (1) 在水平座標軸上找到這個重量的標示。 (2) 畫一條經過它的垂直線。 (3) 從垂直線與關係線相交處，試著讀出這個高度的狗相對應的重量。 你的答案是什麼？
 
 
 # Page 6
@@ -170,7 +170,7 @@ We can weigh planets as well as stars by estimating their weight based on their 
 
 We can weigh dinosaurs too, in spite of the fact that they died out a long time ago and today we have only their skeletons or imprints on a rock. Let us take such a T-Rex. From the excavations, it is known that they were 10 meter high. But how much did they weigh?
 
-我們也可以來量測恐龍的重量，雖然事實上牠們在很早以前就已經絕種了，而我們今天只有牠們的骨骼或是化石樣本。讓我們來看看霸王龍。根據挖掘出的化石中知道，牠們是10公尺高的。那麼，牠們有多重呢？
+我們也可以來量測恐龍的重量，雖然事實上牠們在很早以前就已經絕種了，而我們今天只有牠們的骨骼或是化石樣本。讓我們來看看霸王龍。根據挖掘出的化石中知道，牠們有10公尺高。那麼，牠們有多重呢？
 
 
 
@@ -215,7 +215,7 @@ Blue whale
 
 On the above-mentioned chart it was marked the height and weight of different animals. From a small bat to a giant whale. Having such a combination try to estimate how much the 10 meter dinosaur weighed.
 
-在上面的圖表裡，標示著標示著不同種類動物的高度與重量，從小蝙蝠到大鯨魚。有了這些數據後，讓我們試著來估計一隻10公尺高的恐龍有多重。
+在上面的圖表裡，標示著不同種類動物的高度與重量，從小蝙蝠到大鯨魚。有了這些數據後，讓我們試著來估計一隻10公尺高的恐龍有多重。
 
 
 (1) Draw a line passing close to the marked points, as you did for the dogs.
@@ -276,7 +276,7 @@ Not everything but a lot of things. Even if not with a straight line, then a bit
 
 The sweetest is shown by the sugar curve. It is used by confectioners who warm up the syrup to the more and more high temperatures.
 
-最甜的一條線是這條堂曲線。糖果製造商根據它來把糖漿加溫到越來越高的溫度。
+最甜的一條線是這條糖曲線。糖果製造商根據它來把糖漿加溫到越來越高的溫度。
 
 
 Confectioners may measure the sugar concentration with a thermometer - by measuring the boiling point of a solution. Thanks to this they know how long they should warm up the syrup in order to make thick fudges or hard lollipops.
