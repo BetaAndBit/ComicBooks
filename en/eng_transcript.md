@@ -18,15 +18,15 @@ The early spring: Beta and Bit are wandering through the park.
 
 # Page 2
 
-Suddenly, a big dog run next to Bit.
+Suddenly, a big dog runs next to Bit.
 
 I wonder how much this giant weighs?
 
-You may weigh it on a scale.
+You could weigh it on a scale.
 
 But how? I can't even lift him. And I don't have any scale.
 
-You may weigh it as it is done with the trees.
+You could weigh it as it is done with the trees.
 
 # Page 3
 
@@ -50,7 +50,7 @@ Height Weight
 
 Chihuahua
 Yorkshire
-Terier
+Terrier
 Bearded collie
 Chow Chow
 Akita
@@ -59,7 +59,7 @@ Mastiff
 
 # Page 5
 
-Do it yourself! Fill the chart!
+Do it yourself! Fill in the chart!
 
 Height [cm]
 Weight [kg]
@@ -96,7 +96,7 @@ Giraffe
 African elephant
 Blue whale
 
-On the above-mentioned chart it was marked the height and weight of different animals. From a small bat to a giant whale. Having such a combination try to estimate how much the 10 meter dinosaur weighed.
+On the above-mentioned chart it was marked the height and weight of different animals. From a small bat to a giant whale. Having such a combination try to estimate how much the 10-meter dinosaur weighed.
 
 (1) Draw a line passing close to the marked points, as you did for the dogs.
 
@@ -125,7 +125,7 @@ You are not saying that we can weigh everything with a ruler and it is always su
 
 Not everything but a lot of things. Even if not with a straight line, then a bit more complicated.
 
-The sweetest is shown by the sugar curve. It is used by confectioners who warm up the syrup to the more and more high temperatures.
+The sweetest is shown by the sugar curve. It is used by confectioners who warm up the syrup to the higher and higher temperatures.
 
 Confectioners may measure the sugar concentration with a thermometer - by measuring the boiling point of a solution. Thanks to this they know how long they should warm up the syrup in order to make thick fudges or hard lollipops.
 
