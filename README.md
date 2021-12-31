@@ -1,4 +1,4 @@
-## How to weight a god with a ruler?
+## How to weight a dog with a ruler?
 
 Workshops for children 8-10 years old
 
