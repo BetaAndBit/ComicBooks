@@ -4,8 +4,6 @@ Workshops for children 8-10 years old
 
 _The Beta and Bit series_
 
-*WWW:* http://betabit.wiki
-
 *Beta:* skilled mathematician, well organized and very curious
 
 *Bit:* hothead programmer, loves computers, robots and competitions
